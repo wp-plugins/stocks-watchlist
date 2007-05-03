@@ -39,7 +39,7 @@ Nothing, except add your stock symbols to the database. There is a PHP Class in 
 
 = How do I get my Stocks Watchlist to publish to my blog? =
 
-Add this code to your template - <?php swl_output() ?> - where you want the watchlist to show.
+Add this code to your template - &lt;?php swl_output() ?&gt; - where you want the watchlist to show.
 
 = Will you be updating the plugin with any cool features? =
 
